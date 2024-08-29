@@ -1,9 +1,9 @@
 ---
 title: "AI Simulation by Digital Twins: Systematic Survey of the State of the Art and a Reference Framework"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-08-09-AI-Simulation-Survey
 #excerpt: 
-date: 2024
+date: 2024-08-09
 venue: 'ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion, MODELS-C. 1st International Conference on Engineering Digital Twins (EDTConf). ACM'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://istvandavid.com/files/AI-Simulation-Survey-2024.pdf)'

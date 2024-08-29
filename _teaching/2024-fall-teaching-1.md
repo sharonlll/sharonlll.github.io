@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "TA Positions"
 author_profile: true
 ---

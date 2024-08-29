@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaoran(Sharon) Liu/Personal Homepage"
+title                    : "Sharon's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoran Liu"
 description              : &description "Ph.D. student from McMaster University"

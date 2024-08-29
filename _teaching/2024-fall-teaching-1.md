@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "TA Positions"
-author_profile: true
+collection: teaching
+type: "Undergraduate Course"
 venue: "Mcmaster University 1, Department of Computing and Software"
 date: 2024-09-03
 location: "Hamilton, Canada"

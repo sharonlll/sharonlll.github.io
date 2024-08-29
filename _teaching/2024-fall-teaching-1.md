@@ -2,6 +2,9 @@
 layout: archive
 title: "TA Positions"
 author_profile: true
+venue: "Mcmaster University 1, Department of Computing and Software"
+date: 2024-09-03
+location: "Hamilton, Canada"
 ---
 * 2024-2025: McMaster University, Hamilton  
   * COMPSCI 2ME3 Intro to Software Development (2024 Fall) – TA. One term.  

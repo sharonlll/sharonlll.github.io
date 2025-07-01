@@ -4,5 +4,7 @@ collection: publications
 permalink: /publications/2025-06-06-AI-Simulation-Survey-Journal
 date: 2025-06-06
 venue: 'Journal of Software and Systems Modeling (SoSyM)'
-paperurl: 'https://arxiv.org/abs/2506.06580'
+paperurl:
+preprint: 'https://arxiv.org/abs/2506.06580'
+bib: 'https://istvandavid.com/bib/liu2025ai.bib'
 ---

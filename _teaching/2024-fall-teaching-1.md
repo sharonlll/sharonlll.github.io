@@ -9,4 +9,6 @@ location: "Hamilton, Canada"
 ---
 * COMPSCI 2ME3 Intro to Software Development (2024 Fall) – TA. One term.  
 * SFWRENG 2AA4 Software Design I – Intro to Software Development (2025 Winter) – TA. One term.
+* COMPSCI 2ME3 Intro to Software Development (2025 Fall) – TA. One term.  
+* SFWRENG 2AA4 Software Design I – Intro to Software Development (2026 Winter) – TA. One term.
 

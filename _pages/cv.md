@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service and leadership"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:

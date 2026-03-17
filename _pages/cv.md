@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Service
 * Subreviewer, CAiSE 2026
 * Subreviewer, RCIS 2026
-* Communications & Logistics Director, Women in Science and Engineering (WISE), McMaster University
 * Web Chair, ISORC 2026 (29th International Symposium on Real-Time Distributed Computing)
+## Leadership
+* Communications & Logistics Director, Women in Science and Engineering (WISE), McMaster University

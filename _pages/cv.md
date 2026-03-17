@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Service and leadership"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Service and leadership
-======
 * Review
 * WISE
 * ISORC

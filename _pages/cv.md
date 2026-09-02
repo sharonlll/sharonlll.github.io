@@ -19,6 +19,9 @@ Service
 * CoPaMo - International Workshop on Collaborative and Participatory Modeling ([2026](https://copamo.github.io/))
 * SusMod – International Workshop on Sustainability and Modeling ([2026](https://sustainability-and-modeling.github.io/))
 
+**Reviewer**
+* Reviewer, [PeerJ Computer Science](https://peerj.com/journals/computer-science/)
+
 **Subreviewer**
 * Subreviewer, [CAiSE 2026](https://caise26.polimi.it/)
 * Subreviewer, [RCIS 2026](https://www.rcis-conf.com/rcis2026/)

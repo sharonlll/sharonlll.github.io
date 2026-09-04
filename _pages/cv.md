@@ -20,7 +20,7 @@ Service
 * SusMod – International Workshop on Sustainability and Modeling ([2026](https://sustainability-and-modeling.github.io/))
 
 **Reviewer**
-* Reviewer, [PeerJ Computer Science](https://peerj.com/journals/computer-science/)
+* Journal Reviewer, [PeerJ](https://peerj.com/journals/computer-science/) (2026-
 
 **Subreviewer**
 * Subreviewer, [CAiSE 2026](https://caise26.polimi.it/)
